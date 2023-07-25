@@ -1,5 +1,9 @@
-<img alt="logo" width="200px" href="https://github.com/Vitor-Cruz128/Vitor-Cruz128/issues/1#issue-1820425897" >
+<div>
+    <img align="center" alt="logo" width="200px" src="https://github.com/Vitor-Cruz128/Vitor-Cruz128/assets/132014018/1b6b2493-9645-4a3f-b7fd-e2f70b4eed11"/>
+</div>
+
 ### Olá, Eu sou o Vitor Cruz!
+    
 <br/>
 <br/>
 
@@ -18,16 +22,14 @@
 </div>
 </br>
 <div>
-    <img align="center" alt="Android studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white
-    "/>
+    <img align="center" alt="Android studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
     <img align="center" alt="ionic" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
 </div>
 </br>
 <div>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="Css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-    "/>
+    <img align="center" alt="Javascript" src="https://res.cloudinary.com/practicaldev/image/fetch/s--yXd1I4K0--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Javascript-323330%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3DF7DF1E"/>
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </div>
 </br>
