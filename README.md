@@ -1,3 +1,4 @@
+<html>
 <p class="line typing-animation">
 <style>
     .line {
@@ -33,7 +34,8 @@
 </p>
 <br/>
 <br/>
-
+</html>
+s
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white
 )]()
 [![Linkedin](https://res.cloudinary.com/practicaldev/image/fetch/s--imBRhTaX--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)]()
