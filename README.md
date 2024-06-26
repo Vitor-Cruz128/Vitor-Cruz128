@@ -2,8 +2,10 @@
     <img align="center" alt="logo" width="200px" src="https://github.com/Vitor-Cruz128/Vitor-Cruz128/assets/132014018/1b6b2493-9645-4a3f-b7fd-e2f70b4eed11"/>
 </div>
 
-### Olá, Eu sou o Vitor Cruz!
-    
+### Olá, Sou o Vitor Cruz, Fundador da Codlapse!
+<br/>
+Especializado em desenvolvimento de códigos mais rápidos que o salário desaparece da conta bancária no dia de pagamento em plena sexta-feira! Especialista em criar sistemas que descomplicam a vida dos usuários, tipo aquela inteligência artificial que dominará a humanidade futuramente. Minha missão? Desenvolver tecnologias que não só automatizam processos, mas sistemas que comprovam sua humanidade no captcha. Com expertise em gerenciar a implementação de sistemas, otimização e criar soluções que são verdadeiros atalhos, mais eficientes que um GPS em cidade desconhecida. Vamos dominar o mundo juntos? 🤖🌍 👨‍💻    
+
 <br/>
 <br/>
 
